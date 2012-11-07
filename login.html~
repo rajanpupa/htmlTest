@@ -6,7 +6,7 @@
 			function login(){
 			
 							var user=user.value();
-							Var pass=pass.value();
+							Var pass=pass.value();)
 							alert("Invalid username and password");
 			}
 		</script>
